@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sponsors/sltnul" title="SLTNUL"></a>
 
-### !(img src="https://www.google.com/search?q=jisoo+pfp+without+face&tbm=isch&ved=2ahUKEwj0oMiO7uKDAxUx3wIHHWs2Cf8Q2-cCegQIABAA&oq=jisoo+pfp+without+face&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6CggAEIAEEIoFEEM6BggAEAgQHjoECAAQHlDKBFjQJmDwJ2gAcAB4AIABQ4gB9gaSAQIxNJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=LPamZfTaJLG-i-gP6-yk-A8&bih=813&biw=1440#imgrc=DZPkNYmhWi87KM&imgdii=rSbjiIjwhotB1M" width="12" height="12">) For now I am a coding-newbie but will become one of the best ones out there!
+### For now I am a coding-newbie but will become one of the best ones out there!
 
 ##### Here, you are going to see my journey from the very begginig until I reach the top, haha.
 
