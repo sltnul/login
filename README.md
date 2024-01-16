@@ -1,4 +1,4 @@
-# <img src="https://github.com/sltnul/login/blob/main/df0d29f7864a3eb4ba9078e4ce24d079.jpeg" width="24" height="24"> Welcome to SLTNUL's world of coding projects 👾
+# <img src="https://github.com/sltnul/login/blob/main/df0d29f7864a3eb4ba9078e4ce24d079.jpeg" width="48" height="48"> Welcome to SLTNUL's world of coding projects 👾
 
 
 <a href="https://github.com/sponsors/sltnul" title="SLTNUL"></a>
