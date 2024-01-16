@@ -1,5 +1,8 @@
 # <img src="https://github.com/sltnul/login/blob/main/df0d29f7864a3eb4ba9078e4ce24d079.jpeg" width="30" height="30"> Welcome to SLTNUL's world of coding projects 👾
 
+![](https://www.google.com/search?q=cat+programming+meme&tbm=isch&ved=2ahUKEwif78rX-eKDAxV5hv0HHdosDJQQ2-cCegQIABAA&oq=meme+cat+progra&gs_lcp=CgNpbWcQARgBMgYIABAIEB4yBggAEAgQHjoECCMQJzoFCAAQgARQqgVYxxdg_yxoAHAAeACAAT-IAdkDkgEBOJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=TgKnZZ-QIPmM9u8P2tmwoAk&bih=813&biw=1440#imgrc=kVbV1ME7Zl3i5M)
+
+
 ### For now I am a coding-newbie but will become one of the best ones out there!
 
 ##### Here, you are going to see my journey from the very begginig until I reach the top, haha.
