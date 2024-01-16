@@ -15,7 +15,7 @@
 < Idea for the README was inspired thanks to https://github.com/natemoo-re/natemoo-re >
 
 ### Projects 💡
--------------
+-None (for now)-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sltnul)](https://github.com/anuraghazra/github-readme-stats)
