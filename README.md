@@ -14,7 +14,12 @@
 
 < Idea for the README was inspired thanks to https://github.com/natemoo-re/natemoo-re >
 
-![GitHub metrics](https://metrics.lecoq.io/sltnul)  
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sltnul)  
+
+
 
 ---
 
