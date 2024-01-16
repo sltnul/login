@@ -9,7 +9,7 @@ Here, you are going to see my journey from the very begginig until I reach the t
 You can find me on <a rel="me" href="https://t.me/@gsltn">Telegram</a>.
 
 
-<Idea for the README was inspired thanks to https://github.com/natemoo-re/natemoo-re>
+< Idea for the README was inspired thanks to https://github.com/natemoo-re/natemoo-re >
 
 ---
 
