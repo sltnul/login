@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sponsors/sltnul" title="SLTNUL"></a>
 
-### For now I am a coding-newbie but will become one of the best ones out there!
+### <img src="https://github.com/sltnul/login/blob/main/df0d29f7864a3eb4ba9078e4ce24d079.jpeg" width="12" height="12"> For now I am a coding-newbie but will become one of the best ones out there!
 
 ##### Here, you are going to see my journey from the very begginig until I reach the top, haha.
 
