@@ -14,4 +14,4 @@ Here, you are going to see my journey from the very begginig until I reach the t
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tfq4u7eumth42mnszoqlb5wggm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)></a> |
+|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tfq4u7eumth42mnszoqlb5wggm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  |
