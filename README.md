@@ -6,8 +6,6 @@
 
 ##### Working on Python + Django
 
-##### You can find me on <a rel="me" href="https://t.me/@gsltn">Telegram</a>.
-
 
 < Idea for the README was inspired thanks to https://github.com/natemoo-re/natemoo-re >
 
