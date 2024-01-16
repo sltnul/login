@@ -14,6 +14,8 @@
 
 < Idea for the README was inspired thanks to https://github.com/natemoo-re/natemoo-re >
 
+![GitHub metrics](https://metrics.lecoq.io/sltnul)  
+
 ---
 
 | 🎵 Now Playing                                                                                                                    |
