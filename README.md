@@ -26,13 +26,6 @@
 
 ---
 
-| 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tfq4u7eumth42mnszoqlb5wggm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31tfq4u7eumth42mnszoqlb5wggm&redirect=true) |
-
-
----
-
 ### Contact me via
 
 [<img src='https://github.com/sltnul/login/blob/main/icons8-github.svg' alt='github' height='40'>](https://github.com/sltnul)  [<img src='https://github.com/sltnul/login/blob/main/icons8-telegram-app%20(1).svg' alt='telegram' height='40'>](https://t.me/@gsltn)  
