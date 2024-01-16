@@ -1,6 +1,6 @@
 # <img src="https://github.com/sltnul/login/blob/main/df0d29f7864a3eb4ba9078e4ce24d079.jpeg" width="30" height="30"> Welcome to SLTNUL's world of coding projects 👾
 
-![](https://github.com/sltnul/login/blob/main/maxresdefault.jpeg width="750" height="150")
+![](https://github.com/sltnul/login/blob/main/maxresdefault.jpeg)
 
 
 ### For now I am a coding-newbie but will become one of the best ones out there!
