@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
- <img src="image-url-here](https://github.com/sltnul/login/blob/main/maxresdefault.jpeg" width="750" height="150" />
+ <img src="image-url-here](https://github.com/sltnul/login/blob/main/maxresdefault.jpeg" width="640" height="320" >
 </h1>
 
 
