@@ -1,9 +1,9 @@
 # <img src="https://github.com/sltnul/login/blob/main/df0d29f7864a3eb4ba9078e4ce24d079.jpeg" width="30" height="30"> Welcome to SLTNUL's world of coding projects 👾
 
 
-<h1 align="center">
+
  <img src="image-url-here](https://github.com/sltnul/login/blob/main/maxresdefault.jpeg" width="640" height="320" >
-</h1>
+
 
 
 ### For now I am a coding-newbie but will become one of the best ones out there!
