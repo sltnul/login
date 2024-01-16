@@ -29,3 +29,13 @@
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 |[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tfq4u7eumth42mnszoqlb5wggm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tfq4u7eumth42mnszoqlb5wggm&redirect=true)  |
+
+
+---
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sltnul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/@gsltn)  
+
+
+
+
+
