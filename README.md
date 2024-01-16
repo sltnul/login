@@ -1,8 +1,7 @@
 # <img src="https://github.com/sltnul/login/blob/main/df0d29f7864a3eb4ba9078e4ce24d079.jpeg" width="30" height="30"> Welcome to SLTNUL's world of coding projects 👾
 
 
-
- <img src="image-url-here](https://github.com/sltnul/login/blob/main/maxresdefault.jpeg" width="640" height="320" >
+![](image-url-here](https://github.com/sltnul/login/blob/main/maxresdefault.jpeg)
 
 
 
