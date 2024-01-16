@@ -33,7 +33,7 @@
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sltnul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/@gsltn)  
+[<img src='https://camo.githubusercontent.com/6859b81bad9211632c09ba0ba5aff3ce23d87f38bd199a05cfdd67b70d8ef58e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667' alt='github' height='40'>](https://github.com/sltnul)  [<img src='https://camo.githubusercontent.com/71a0a983f1c9008526b1310010e0c9e2d977147396b5729f5a13c2ef22f9cb3a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667' alt='telegram' height='40'>](https://t.me/@gsltn)  
 
 
 
