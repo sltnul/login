@@ -1,7 +1,7 @@
 # Welcome to SLTNUL's world of coding projects 👾
 
 
-<a href="https://github.com/sponsors/sltnul" title="SLTNUL"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+<a href="https://github.com/sponsors/sltnul" title="SLTNUL"></a>
 
 ### For now I am a coding-newbie but will become one of the best ones out there!
 
