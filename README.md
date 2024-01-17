@@ -20,7 +20,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sltnul)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+
+THE jam
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tfq4u7eumth42mnszoqlb5wggm&cover_image=true&theme=default&show_offline=true&background_color=81567f&interchange=true&bar_color=b14e83)](https://spotify-github-profile.vercel.app/api/view?uid=31tfq4u7eumth42mnszoqlb5wggm&redirect=true)
 
 
 
