@@ -23,8 +23,7 @@
 ---
 
 
-THE jam
-
+The Vibes ✨
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tfq4u7eumth42mnszoqlb5wggm&cover_image=true&theme=default&show_offline=true&background_color=81567f&interchange=true&bar_color=b14e83)](https://spotify-github-profile.vercel.app/api/view?uid=31tfq4u7eumth42mnszoqlb5wggm&redirect=true)
 
 
